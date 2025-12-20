@@ -10,10 +10,10 @@ projects:
 - {name: 'Stellar Structures Project', url: 'stellar-structures'}
 
 social:
-- {icon: 'github', link: 'https://github.com/JARC99'}
-- {icon: 'linkedin', link: 'https://www.linkedin.com/in/jose-alfredo-rosas-cordova'}
-- {icon: 'fa fa-leaf', link: 'https://www.inaturalist.org/people/jarc'}
-- {icon: 'youtube', link: 'https://www.youtube.com/@JARC99_'}
+- {icon: 'fab fa-github', link: 'https://github.com/JARC99'}
+- {icon: 'fab fa-linkedin', link: 'https://www.linkedin.com/in/jose-alfredo-rosas-cordova'}
+- {icon: 'fas fa-binoculars', link: 'https://www.inaturalist.org/people/jarc'}
+- {icon: 'fab fa-youtube', link: 'https://www.youtube.com/@JARC99_'}
 
 contacts:
 - {name: 'José Alfredo Rosas Córdova', title: 'M. Sc. Mechanical Engineering Student', department: 'Fakultät Maschinenbau', institution: 'Leibniz Universität Hannover', institution_address: 'An der Universität 1, 30823  Garbsen', email: 'jarosascordova@gmail.com', image: 'assets/img/contact.jpg'}
