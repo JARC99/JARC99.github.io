@@ -1,10 +1,10 @@
 menu:
 # - {name: 'People', url: '/people'}
-- {name: 'CV', url: '/cv'}
+# - {name: 'CV', url: '/cv'}
 - {name: 'Publications', url: '/publications'}
 - {name: 'Projects', url: '/projects'}
 - {name: 'Contact', url: '/contact'}
-- {name: 'Courses', url: '/courses'}
+# - {name: 'Courses', url: '/courses'}
 
 # people:
 # - {name: 'Primary Investigator', title: 'Researcher', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/primary-investigator.jpg', url: 'primary-investigator'}
@@ -16,15 +16,14 @@ projects:
 - {name: 'Quantum Mechanics Project', url: 'quantum-mechanics'}
 - {name: 'Stellar Structures Project', url: 'stellar-structures'}
 
-courses:
-- {name: 'Vector Calculus', url: 'vector-calculus'}
-- {name: 'Quantum Mechanics', url: 'quantum-mechanics'}
-- {name: 'Stellar Structures', url: 'stellar-structures'}
+# courses:
+# - {name: 'Vector Calculus', url: 'vector-calculus'}
+# - {name: 'Quantum Mechanics', url: 'quantum-mechanics'}
+# - {name: 'Stellar Structures', url: 'stellar-structures'}
 
 social:
 - {icon: 'linkedin', link: 'https://www.linkedin.com/in/jose-alfredo-rosas-cordova'}
 - {icon: 'github', link: 'https://github.com/JARC99'}
 
-
 contacts:
-- {name: 'Dr. Academia', title: 'Professor', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/contact.jpg'}
+- {name: 'José Alfredo Rosas Córdova', title: 'M. Sc. Mechanical Engineering Student', department: 'Fakultät Maschinenbau', institution: 'Leibniz Universität Hannover', institution_address: 'An der Universität 1, 30823  Garbsen', email: 'jarosascordova@gmail.com', image: 'assets/img/contact.jpg'}
