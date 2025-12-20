@@ -12,7 +12,7 @@ projects:
 social:
 - {icon: 'fab fa-github', link: 'https://github.com/JARC99'}
 - {icon: 'fab fa-linkedin', link: 'https://www.linkedin.com/in/jose-alfredo-rosas-cordova'}
-- {icon: 'fas fa-binoculars', link: 'https://www.inaturalist.org/people/jarc'}
+- {icon: 'fas fa-binoculars', link: 'https://www.inaturalist.org/observations?place_id=any&user_id=jarc&verifiable=any'}
 - {icon: 'fab fa-youtube', link: 'https://www.youtube.com/@JARC99_'}
 
 contacts:
