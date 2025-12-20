@@ -12,7 +12,7 @@ projects:
 social:
 - {icon: 'linkedin', link: 'https://www.linkedin.com/in/jose-alfredo-rosas-cordova'}
 - {icon: 'github', link: 'https://github.com/JARC99'}
-- {icon: 'fa-user', link: 'https://www.inaturalist.org/people/jarc'}
+- {icon: 'fa fa-user', link: 'https://www.inaturalist.org/people/jarc'}
 - {icon: 'youtube', link: 'https://www.youtube.com/@JARC99_'}
 
 contacts:
