@@ -1,5 +1,5 @@
 menu:
-- {name: 'Homse', url: ''}
+- {name: 'Home', url: ''}
 - {name: 'Publications', url: '/publications'}
 - {name: 'Projects', url: '/projects'}
 - {name: 'Contact', url: '/contact'}
