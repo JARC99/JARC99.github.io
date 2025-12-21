@@ -1,7 +1,7 @@
 featured:
-- {name: 'Validation of VSPAERO for Basic Wing Simulation. José A. Rosas Córdova,  Diana Hernández Alcantara, Carlos Santana Delgado, Luis Amezquita Brooks', link: 'https://www.emerald.com/aeat/article-abstract/doi/10.1108/AEAT-05-2025-0168/1276835/Design-manufacture-and-testing-of-a-low-cost-tilt?redirectedFrom=fulltext'}
-- {name: 'Design, Manufacture and Testing of a Low-Cost Tilt-Rotor UAV: a Practical Development Case. José A. Rosas Córdova,  Diana Hernández Alcantara, Luis Arturo Reyes Osorio and Luis Amezquita Brooks', link: 'https://www.scipedia.com/public/Rosas-Cordova_et_al_2024a'}
+- {name: 'Design, Manufacture and Testing of a Low-Cost Tilt-Rotor UAV: a Practical Development Case. José A. Rosas Córdova,  Diana Hernández Alcantara, Luis Arturo Reyes Osorio and Luis Amezquita Brooks', link: 'https://doi.org/10.1108/AEAT-05-2025-0168'}
+- {name: 'Validation of VSPAERO for Basic Wing Simulation. José A. Rosas Córdova,  Diana Hernández Alcantara, Carlos Santana Delgado, Luis Amezquita Brooks', link: '10.23967/j.rimni.2024.10.56492'}
 
 index:
-- {name: 'Validation of VSPAERO for Basic Wing Simulation. José A. Rosas Córdova,  Diana Hernández Alcantara, Carlos Santana Delgado, Luis Amezquita Brooks', link: 'https://www.emerald.com/aeat/article-abstract/doi/10.1108/AEAT-05-2025-0168/1276835/Design-manufacture-and-testing-of-a-low-cost-tilt?redirectedFrom=fulltext'}
-- {name: 'Design, Manufacture and Testing of a Low-Cost Tilt-Rotor UAV: a Practical Development Case. José A. Rosas Córdova,  Diana Hernández Alcantara, Luis Arturo Reyes Osorio and Luis Amezquita Brooks', link: 'https://www.scipedia.com/public/Rosas-Cordova_et_al_2024a'}
+- {name: 'Design, Manufacture and Testing of a Low-Cost Tilt-Rotor UAV: a Practical Development Case. José A. Rosas Córdova,  Diana Hernández Alcantara, Luis Arturo Reyes Osorio and Luis Amezquita Brooks', link: 'https://doi.org/10.1108/AEAT-05-2025-0168'}
+- {name: 'Validation of VSPAERO for Basic Wing Simulation. José A. Rosas Córdova,  Diana Hernández Alcantara, Carlos Santana Delgado, Luis Amezquita Brooks', link: '10.23967/j.rimni.2024.10.56492'}
