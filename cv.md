@@ -1,4 +1,4 @@
 ---
 layout: cv
-title: "Curriculum Vitae"
+title: "CV"
 ---
