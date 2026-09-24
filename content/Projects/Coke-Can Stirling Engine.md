@@ -1,3 +1,7 @@
+---
+date: 2026-09-24
+draft: false
+---
 
 Nearing the end of my second thermodynamics class during the second year of my engineering bachelor's, we were told that the assigned class final project would be to build a working Stirling engine; well, that and an accompanying written report explaining the physical principles that made the thing go. The class had a heavy emphasis on thermodynamic cycles so I guess it was more than appropriate and significantly easier than having us build a full on turbine.
 
