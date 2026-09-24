@@ -68,7 +68,7 @@ plugins:
     enabled: true
     order: 40
   - source: "@quartz-community/table-of-contents"
-    enabled: true
+    enabled: false
     order: 50
     layout:
       position: right
@@ -150,7 +150,7 @@ plugins:
   - source: "@quartz-community/explorer"
     enabled: true
     options:
-      title: "Table of Contents"
+      title: "Explorer"
     layout:
       position: left
       priority: 50
