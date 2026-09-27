@@ -1,5 +1,15 @@
 ---
 title: José A. Rosas Córdova
 ---
-**Lorem Ipsum** is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since 1966, when designers at Letraset and James Mosley, the librarian at St Bride Printing Library in London, took a 1914 Cicero translation and scrambled it to make dummy text for Letraset's Body Type sheets. It has survived not only many decades, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised thanks to these sheets and more recently with desktop publishing software like Aldus PageMaker and Microsoft Word including versions of Lorem Ipsum.
 
+Greetings and salutations!
+
+Welcome to my little corner of the internet. The general idea for this site is to function as a sort of digital portfolio. In a nutshell, here is what you can expect to find:
+
+- Projects I've worked on both during my studies and in my personal free time, as well as some information about what I've done professionally so far.
+
+- Journal publications I've collaborated on.
+
+- Occasional posts about topics that I may have come across and found interesting.
+
+I hope you find the information useful. If you have any questions, comments, or suggestions, feel free to write me an e-mail. I'll do my best to answer as soon as possible.
