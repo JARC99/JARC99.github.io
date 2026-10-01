@@ -20,7 +20,7 @@ Depending on how accurate one wants the curvature to be the number of slices can
 *Resulting fuselage sections in devFus. *
 
 While watching some YouTube videos I ran into the CHANNEL channel. He also uses sections build his fuselages so and seemed to be relying back then in a more manual geometry processing pipeline. I decided to share my script and some instructions on how to use it by uploading a YouTube video:
-VIDEO_1
+![](https://www.youtube.com/watch?v=lRTBPSJ5pYQ)
 
 Once I added multi-body funtionality I uploaded a second video explaining the new functionality:
-VIDEO_2
+![](https://www.youtube.com/watch?v=4RBH1Hth29k)

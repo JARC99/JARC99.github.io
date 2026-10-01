@@ -13,7 +13,7 @@ It is important to note that I had never done anything like that, that is either
 
 As my airfield I choose a pair of empty basketball courts surrounded by trees and overhead wires. This would have been limited space for a 3 in drone, let alone a supposed "glider" with a wingspan above 1 m. Following the tutorials I had seen online I held my aircraft firmly, armed the motor and gave it full throttle before launching it into the air. The subsequent seconds were thankfully captured in video and can bee seen at the start of this fun compilation:
 
-VIDEO LINK
+![](https://youtu.be/SXQ2YIHrVqE)
 
 Thankfully I had the foresight of recording this first ever flight of mine, I seemed to have known back then that I would want to look back at this epic first flight of mine. The rest of the video shows a subset of the other aircraft I managed to destroy during my first years of college, some others I sadly did not capture on video, all fond memories of how not to do stuff.
 
